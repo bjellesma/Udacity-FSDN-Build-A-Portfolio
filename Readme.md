@@ -4,7 +4,7 @@
 * [Technologies](#technologies)
 * [Editing Guide](#editing-guide)
 <h2> <a name="quick-start">Quick Start</a></h2>
-<p>To render this website in your own environment, the following steps are recommended for a windows environment:
+<p>To render this website in your own environment, the following steps are recommended for a windows environment:</p>
   1. Download and install [WampServer](http://www.wampserver.com/en/)
   2. Start WampServer and wait for the icon to turn from red to yellow to green
   3. Download or clone this repository into C:\Wamp\www\
@@ -17,7 +17,7 @@
   8. Download and install composer from The official website
   9. Migrate the current database over using `php artisan migrate`
 <h2><a name="technologies">Technologies</a></h2>
-<p>I have used several technologies in this project in order to help my workflow. I've outlined these technologies here
+<p>I have used several technologies in this project in order to help my workflow. I've outlined these technologies here</p>
 * [Gruntjs](http://gruntjs.com/)
   <p>Gruntjs is a taskrunner that I've used to help compile my sass code into css that the browser can interpret</p>
 * [Bootstrap](http://getbootstrap.com/)
