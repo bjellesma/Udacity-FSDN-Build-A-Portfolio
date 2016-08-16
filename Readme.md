@@ -11,6 +11,8 @@
   3. Download or clone this repository into C:\Wamp\www\
   4. Open a web browser and navigate to localhost\BillJellesmaHelpDesk in the address bar
 
+Similar steps can be taken with MAMP on OSX and LAMP on Linux.
+
 <h2><a name="technologies">Technologies</a></h2>
 <p>I have used several technologies in this project in order to help my workflow. I've outlined these technologies here</p>
 * [Gruntjs](http://gruntjs.com/)
