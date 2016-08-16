@@ -9,7 +9,7 @@
   1. Download and install [WampServer](http://www.wampserver.com/en/)
   2. Start WampServer and wait for the icon to turn from red to yellow to green
   3. Download or clone this repository into C:\Wamp\www\
-  4. Open a web browser and navigate to localhost\BillJellesmaHelpDesk in the address bar
+  4. Open a web browser and navigate to localhost/[project-name] in the address bar
 
 Similar steps can be taken with MAMP on OSX and LAMP on Linux.
 
